@@ -39,6 +39,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sozgen1&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
   <br />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sozgen1&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sozgen1&theme=dark&layout=compact&hide_border=false" alt="Top Langs" />
@@ -57,7 +58,10 @@
 ## 🏆 GitHub Aktivitem
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sozgen1&theme=github_dark" />
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sozgen1&bg_color=0d1117&color=00ffbf&line=00ffff&point=ffffff&area=true&hide_border=true" width="100%" height="200px"/>
+
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sozgen1&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sozgen1&theme=github_dark" />
 </p>
