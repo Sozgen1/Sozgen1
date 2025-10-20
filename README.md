@@ -20,7 +20,7 @@
 
 - 🔭 Şu anda **Yapay Zeka projeleri** üzerine çalışıyorum  
 - 🌱 **Yapay Zeka** ve **Siber Güvenlik** alanlarında kendimi geliştiriyorum  
-- 💬Python, C/C++, JavaScript ve SQL ile çalışıyorum. Ağ güvenliği ve makine öğrenmesi alanlarına odaklanıyorum.
+- 💬Python, C/C++, JavaScript ve SQL ile çalışıyorum. Ağ güvenliği ve makine öğrenmesi alanlarına odaklanıyorum
 - 🧠 Yeni teknolojileri öğrenmeye ve açık kaynak projelere katkı sağlamaya istekliyim  
 
 ---
