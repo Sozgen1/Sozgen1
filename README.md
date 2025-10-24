@@ -21,9 +21,9 @@
     <td width="65%" valign="top">
       <h2>🚀 About Me</h2>
       <ul>
-        <li>🔭 I’m currently building <strong>[PROJE ADINIZI YAZIN]</strong>, a tool for [PROJENİN NE YAPTIĞINI 1 CÜMLE İLE AÇIKLAYIN, örn: detecting network intrusions using ML].</li>
-        <li>🌱 I’m focusing on <strong>AI-driven security solutions</strong> and <strong>secure development with .NET</strong>.</li>
-        <li>💬 I work with Python, C/C++, C#, .NET, JavaScript, and SQL.</li>
+        <li>🔭 I’m currently working on <strong>Artificial Intelligence projects</strong>.</li>
+        <li>🌱 I’m continuously improving in <strong>AI</strong> and <strong>Cybersecurity</strong>.</li>
+        <li>💬 I work with Python, C/C++, JavaScript, and SQL. My focus areas are network security and machine learning.</li>
         <li>🧠 I'm eager to learn new technologies and contribute to open-source projects.</li>
       </ul>
     </td>
@@ -49,31 +49,10 @@
 
 ---
 
-## 🏆 Featured Projects
-
-Bu bölümde, en gurur duyduğunuz 2-3 projeyi sergilemelisiniz. `[PARANTEZ]` içindeki alanları kendi bilgilerinizle doldurun.
-
-* **1. [Proje Adı 1: Yapay Zeka Güvenlik Botu](https://github.com/Sozgen1/PROJE-LINKI)**
-    * **Açıklama:** [Projenin hangi sorunu çözdüğünü veya ne yaptığını 1-2 cümleyle açıklayın. Örn: "Python, Scikit-learn ve Pandas kullanarak ağ trafiği verilerindeki anomalileri ve olası siber saldırıları tespit eden bir makine öğrenmesi modeli."]
-    * **Teknolojiler:** `Python`, `Scikit-learn`, `Pandas`, `NumPy`
-    * **Durum:** `Tamamlandı` veya `Geliştiriliyor`
-
-* **2. [Proje Adı 2: Güvenli .NET API](https://github.com/Sozgen1/PROJE-LINKI-2)**
-    * **Açıklama:** [Örn: "JWT (JSON Web Token) kimlik doğrulaması ve temel güvenlik (OWASP Top 10) önlemleri uygulanmış bir .NET 7 Web API projesi."]
-    * **Teknolojiler:** `C#`, `.NET 7`, `SQL Server`, `JWT`
-    * **Durum:** `Tamamlandı`
-
-* **3. [Proje Adı 3: C++ Paket Sniffer](https://github.com/Sozgen1/PROJE-LINKI-3)**
-    * **Açıklama:** [Örn: "Linux ortamında `libpcap` kütüphanesini kullanarak temel ağ paketlerini yakalayan ve analiz eden bir C++ konsol uygulaması."]
-    * **Teknolojiler:** `C++`, `Linux`, `Networking`
-    * **Durum:** `Geliştiriliyor`
-
----
-
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sozgen1&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sozgen1&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br />
@@ -101,15 +80,5 @@ Bu bölümde, en gurur duyduğunuz 2-3 projeyi sergilemelisiniz. `[PARANTEZ]` i�
 > By working in the fields of artificial intelligence, cybersecurity, and data science, I am both enhancing my technical skills and finding opportunities to merge different disciplines.
 > <br><br>
 > I love using Git; a project without regular commits makes me uneasy 😄
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to discussing new projects, collaboration, or opportunities in AI and Cybersecurity. 
-
-Feel free to reach out to me via:
-* **LinkedIn:** [linkedin.com/in/kaansozgen](https://linkedin.com/in/kaansozgen)
-* **Email:** [E-POSTA ADRESİNİZİ BURAYA YAZIN, örn: kaan.sozgen@mail.com]
 
 ---
