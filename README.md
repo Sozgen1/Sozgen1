@@ -52,7 +52,7 @@
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sozgen1&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+ 
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sozgen1&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br />
