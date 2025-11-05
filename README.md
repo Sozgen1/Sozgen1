@@ -54,7 +54,7 @@
 <p align="center">
   
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sozgen1&theme=dark&hide_border=false" alt="GitHub Streak" />
+  
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sozgen1&theme=dark&layout=compact&hide_border=false" alt="Top Langs" />
 </p>
