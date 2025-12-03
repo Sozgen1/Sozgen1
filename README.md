@@ -49,15 +49,7 @@
 
 ---
 
-## 📈 My GitHub Stats
 
-<p align="center">
-  
-  <br />
-  
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sozgen1&theme=dark&layout=compact&hide_border=false" alt="Top Langs" />
-</p>
 
 ---
 
