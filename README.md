@@ -50,9 +50,6 @@
 ---
 
 
-
----
-
 ## 🏆 GitHub Activity
 
 <p align="center">
